@@ -1,0 +1,29 @@
+{
+  "vars": {},
+  "css": [
+    "print.less",
+    "grid.less",
+    "forms.less",
+    "responsive-utilities.less",
+    "glyphicons.less",
+    "navs.less",
+    "navbar.less",
+    "jumbotron.less",
+    "media.less",
+    "component-animations.less",
+    "dropdowns.less",
+    "tooltip.less",
+    "popovers.less",
+    "modals.less",
+    "carousel.less"
+  ],
+  "js": [
+    "carousel.js",
+    "tab.js",
+    "affix.js",
+    "collapse.js",
+    "scrollspy.js",
+    "transition.js"
+  ],
+  "customizerUrl": "http://getbootstrap.com/customize/?id=cce6a7896bbe7637af5cf4e8316b8745"
+}
